@@ -1,0 +1,11 @@
+C:\Users\aurel\Documents\Rust_Projects\advent_of_code_23\target\debug\deps\libsyn_mid-4e224dd85734583a.rmeta: C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\syn-mid-0.5.4\src\lib.rs C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\syn-mid-0.5.4\src\macros.rs C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\syn-mid-0.5.4\src\func.rs C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\syn-mid-0.5.4\src\pat.rs C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\syn-mid-0.5.4\src\path.rs
+
+C:\Users\aurel\Documents\Rust_Projects\advent_of_code_23\target\debug\deps\libsyn_mid-4e224dd85734583a.rlib: C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\syn-mid-0.5.4\src\lib.rs C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\syn-mid-0.5.4\src\macros.rs C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\syn-mid-0.5.4\src\func.rs C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\syn-mid-0.5.4\src\pat.rs C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\syn-mid-0.5.4\src\path.rs
+
+C:\Users\aurel\Documents\Rust_Projects\advent_of_code_23\target\debug\deps\syn_mid-4e224dd85734583a.d: C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\syn-mid-0.5.4\src\lib.rs C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\syn-mid-0.5.4\src\macros.rs C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\syn-mid-0.5.4\src\func.rs C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\syn-mid-0.5.4\src\pat.rs C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\syn-mid-0.5.4\src\path.rs
+
+C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\syn-mid-0.5.4\src\lib.rs:
+C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\syn-mid-0.5.4\src\macros.rs:
+C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\syn-mid-0.5.4\src\func.rs:
+C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\syn-mid-0.5.4\src\pat.rs:
+C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\syn-mid-0.5.4\src\path.rs:

@@ -1,0 +1,9 @@
+C:\Users\aurel\Documents\Rust_Projects\advent_of_code_23\target\debug\deps\libanstyle_parse-4a731342679bb510.rmeta: C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.2\src\lib.rs C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.2\src\params.rs C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.2\src\state\mod.rs C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.2\src\state\definitions.rs C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.2\src\state\table.rs
+
+C:\Users\aurel\Documents\Rust_Projects\advent_of_code_23\target\debug\deps\anstyle_parse-4a731342679bb510.d: C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.2\src\lib.rs C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.2\src\params.rs C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.2\src\state\mod.rs C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.2\src\state\definitions.rs C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.2\src\state\table.rs
+
+C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.2\src\lib.rs:
+C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.2\src\params.rs:
+C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.2\src\state\mod.rs:
+C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.2\src\state\definitions.rs:
+C:\Users\aurel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.2\src\state\table.rs:
