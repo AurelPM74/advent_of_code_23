@@ -76,7 +76,6 @@ pub fn solve_2() -> u32{
     
     //input
     let lists = utils::read_input_of_the_day_lines(1);
-    println!("{:?}", lists[0].chars().rev());
     let result: Vec<u32> = lists.iter()
          .map(|line| (find_first_word_or_digit(&line, &word_map), find_first_word_or_digit(&line.chars().rev().collect(), &reverse_word_map)))
          .map(|(a, b)| 10*a + b)

@@ -81,4 +81,24 @@ where T : PartialEq + Clone{
 
 }
 
+//From string create array of substrings delimited by a delimiter
+pub fn substring_delimited(to_splitt: &String, delimiter: char)-> Vec<String>{
+    let mut substrings: Vec<String> = Vec::new();
+    let mut temp_substring = String::new();
+    for c in to_splitt.chars(){
+        if c == delimiter{
+            substrings.push(temp_substring.clone());
+            temp_substring.clear();
+        }
+        else{
+            temp_substring.push(c);
+        } 
+        
+    }
+    if !temp_substring.is_empty() {
+        substrings.push(temp_substring.clone())
+    }
+    return substrings;
+
+}
 
